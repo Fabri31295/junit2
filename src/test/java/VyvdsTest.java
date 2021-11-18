@@ -20,7 +20,7 @@ public class VyvdsTest {
 
     @Test
     public void bisiestoTest(){
-        boolean result = vyvds.isBisiesto(2012);
+        boolean result = vyvds.isBisiesto(2011);
         assertTrue(result);
     }
 
