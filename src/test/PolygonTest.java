@@ -12,7 +12,7 @@ import static org.junit.jupiter.api.Assertions.*;
 	    @Test
 	    public void squareAreaTest(){
 	        float result = polygon.squareArea(10);
-	        assertEquals(result, 100);
+	        assertEquals(result, 150);
 	    }
 
 	    @Test
