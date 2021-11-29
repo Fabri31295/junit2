@@ -24,7 +24,7 @@ import static org.junit.jupiter.api.Assertions.*;
 	    @Test
 	    public void rectangleAreaTest(){
 	        float result = polygon.rectangleArea(50,30);
-	        assertEquals(result, 1500);
+	        assertEquals(result, 1580);
 	    }
 
 	    @Test
